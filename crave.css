@@ -1,0 +1,73 @@
+.btn4{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+.btno{
+    padding: 20px;
+    text-align: center;
+    transition: 1s ease-in-out;
+    transform: scale(1.0);
+    
+}
+.btno:hover{
+    transform: scale(1.1);
+    transition: 0.4s ease-in-out;
+}
+button{
+background-color: #29ABE2;
+border: none;
+outline: none;
+padding: 10px 15px;
+margin: 20px 30px;
+margin-right: 100px;
+margin-left: 120px;
+font-family: century gothic;
+font-weight: bold;
+
+}
+body{
+    background-color: black;
+    background-image: url(../img/WATERMARK.png);
+    background-attachment: fixed;
+
+}
+.verse{
+    border: 1px solid white;
+}
+.shape{
+    width: 200px;
+    height: 300px; 
+}
+.drain{
+    color: white;
+    font-family: century gothic;
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+    position: static;
+}
+.bread{
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.brb{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+    
+
+.pry1{
+    padding: 20px;
+}
+

@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Jollof Rice",
+            "price": 135,
+            "image":""
+        },
+        {
+            "id": 2,
+            "title": "Jollof Rice",
+            "price": 950,
+            "image":"./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 3,
+            "title": "Jollof Rice",
+            "price": 750,
+            "image":"./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 4,
+            "title": "Jollof Rice",
+            "price": 999,
+            "image": "./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 5,
+            "title": "Jollof Rice",
+            "price": 250,
+            "image": "./images/image-removebg-preview (1).png"
+
+        },
+        {
+            "id": 6,
+            "title": "Jollof Rice",
+            "price": 850,
+            "image": "./images/image-removebg-preview (1).png"
+
+        },
+        {
+            "id": 7,
+            "title": "Jollof Rice",
+            "price": 600,
+            "image": "./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 8,
+            "title": "Jollof Rice",
+            "price": 350,
+            "image": "./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 9,
+            "title": "Jollof Rice",
+            "price": 799,
+            "image": "./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 10,
+            "title": "Jollof Rice",
+            "price": 150,
+            "image": "./images/image-removebg-preview (1).png"
+        },
+        {
+            "id": 11,
+            "title": "Jollof Rice",
+            "price": 650,
+            "image": "./images/image-removebg-preview (1).png"
+        }
+    ]
+}
